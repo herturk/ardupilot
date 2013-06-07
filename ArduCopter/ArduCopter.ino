@@ -422,7 +422,7 @@ static uint8_t receiver_rssi;
  #define MOTOR_CLASS AP_MotorsTri
 #endif
 #if FRAME_CONFIG == HEXA_FRAME
- #define MOTOR_CLASS AP_MotorsHexa
+ define MOTOR_CLASS AP_MotorsHexa
 #endif
 #if FRAME_CONFIG == Y6_FRAME
  #define MOTOR_CLASS AP_MotorsY6
